@@ -11,5 +11,3 @@ def palindrome(str):
 
 print(palindrome("radar"))
 print(palindrome("Banana"))
-
-
